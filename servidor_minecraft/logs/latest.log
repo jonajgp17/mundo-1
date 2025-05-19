@@ -46,3 +46,16 @@
 [02:34:30] [Server thread/INFO]: jonajgp left the game
 [02:37:50] [Server thread/INFO]: jonajgp[/127.127.200.125:49491] logged in with entity id 4897 at (221.78095211837598, 65.0, -170.3750919444087)
 [02:37:50] [Server thread/INFO]: jonajgp joined the game
+[02:41:55] [Server thread/INFO]: jonajgp lost connection: Disconnected
+[02:41:55] [Server thread/INFO]: jonajgp left the game
+[02:42:03] [Server thread/INFO]: Stopping the server
+[02:42:03] [Server thread/INFO]: Stopping server
+[02:42:03] [Server thread/INFO]: Saving players
+[02:42:03] [Server thread/INFO]: Saving worlds
+[02:42:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:42:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:42:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:42:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:42:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:42:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:42:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
